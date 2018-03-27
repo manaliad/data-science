@@ -12,3 +12,6 @@ Included classifiers are:
 5) Multilayer Perceptron (Neural Network)
 6) Support Vector Machines
 
+lactose_intolerance.py
+----------------------
+Inspect the mutated lactase protein if the base is mutated. Inspired from http://hplgit.github.io/bioinf-py/doc/pub/html/index.html
